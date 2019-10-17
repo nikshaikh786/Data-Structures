@@ -1,5 +1,4 @@
 /*A CODE FOR SANITATION AND HYGIENE RESOLUTION SYSTEM */
-//ROLLNO-18CO03,18CO04,18CO07
 
 #include <stdio.h> 
 #include <stdlib.h> 
